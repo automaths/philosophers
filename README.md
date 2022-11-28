@@ -1,0 +1,2 @@
+# philosophers
+Threads and semaphores
